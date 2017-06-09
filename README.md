@@ -18,4 +18,4 @@ This will exploit the fact that local images in a timelapse do not have many dif
 
 * Keep storing differences until the difference is sufficiently large. When this happens acquire a new reference image and repeat.
 
-* The archive file format (.TLI (timelapse image archive) will not display previews of the files. It will act like a .zip and must be decompressed to view/edit the photos
+* The archive file format (.TLI: timelapse image archive) will not display previews of the files. It will act like a .zip and must be decompressed to view/edit the photos
